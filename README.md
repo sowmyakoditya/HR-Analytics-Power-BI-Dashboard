@@ -69,3 +69,6 @@ The Power BI Dashboard includes the following visualizations:
 
 3. **Salary Review:**  
    - Evaluate salary structures, especially for employees earning up to $5K, as this group shows the highest turnover.
+
+![image](https://github.com/user-attachments/assets/564b8113-3cb2-4a23-b046-f54785540890)
+
